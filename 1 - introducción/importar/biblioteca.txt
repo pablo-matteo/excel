@@ -1,0 +1,4 @@
+titulo, autor, fecha de nacimiento, año
+La vida esta en otra parte, Milan Kundera, 13/04/1975, 1973
+Pantaleón y las visitadoras, Mario Vargas Llosa, 28/03/1936, 1973
+Conversación en la catedral, Mario Vargas Llosa, 28/03/1936, 1969

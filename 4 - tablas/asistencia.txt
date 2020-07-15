@@ -1,0 +1,30 @@
+Estudiante#Grado#Fecha
+Joaquin Cardiel#1 Básico#05/01/2020
+Cristina Solares#3 Básico#06/01/2020
+Marta Sanchez#2 Básico#07/01/2020
+Junior Girón#3 Básico#05/01/2020
+Luz Elena Flores#1 Básico#09/01/2020
+Juan Morales#2 Básico#07/01/2020
+Armando Pérez#2 Básico#06/01/2020
+Gonzálo Valdivia#3 Básico#10/01/2020
+Francisco Casas#1 Básico#07/01/2020
+Mauricio Santana#3 Básico#10/01/2020
+Carmen Argueta#3 Básico#07/01/2020
+Flor Campos#1 Básico#05/01/2020
+Manuel Campos#1 Básico#07/01/2020
+Victoria Fuentes#1 Básico#05/01/2020
+Junior Girón#3 Básico#11/01/2020
+Luz Elena Flores#1 Básico#12/01/2020
+Francisco Casas#1 Básico#13/01/2020
+Mauricio Santana#3 Básico#12/01/2020
+Carmen Argueta#3 Básico#12/01/2020
+Joaquin Cardiel#1 Básico#12/01/2020
+Cristina Solares#3 Básico#13/01/2020
+Cristina Solares#3 Básico#11/01/2020
+Marta Sanchez#2 Básico#14/01/2020
+Junior Girón#3 Básico#13/01/2020
+Luz Elena Flores#1 Básico#11/01/2020
+Armando Pérez#2 Básico#13/01/2020
+Gonzálo Valdivia#3 Básico#11/01/2020
+Francisco Casas#1 Básico#13/01/2020
+Flor Campos#1 Básico#11/01/2020

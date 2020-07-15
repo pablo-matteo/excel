@@ -1,0 +1,25 @@
+Código,Descripción,Precio de costo,Precio de venta
+301,Mouse USB DRAGON,220,330
+302,Mouse USB ADC,90,110
+303,Teclado USB DRAGON,365,495
+304,Teclado USB ADC,295,325
+305,Bocinas med. color azul,125,249
+306,Bocinas med. color rojo,125,249
+307,Bocinas med. color verde,125,249
+308,Impresora ATS ,219,310
+309,Impresora ABC,419,650
+310,"Monitor Dragon 17""",550,650
+311,"Monitor Dragon 21""",680,980
+312,"Monitor Dragon 23""",720,"1,100"
+313,Memoria USB 16 GB,25,30
+314,Memoria USB 32 GB,28,35
+315,Memoria USB 64 GB,42,55
+316,Memoria Micro USB 8 GB,28,30
+317,Memoria Micro USB 16 GB,31,35
+318,Camara web DRAGON,510,680
+319,Camara web ADC,335,429
+320,Audifonos Xtreme azul,310,435
+321,Audifonos Xtreme negro,310,435
+322,Disco duro externo 500 GB ,425,600
+323,Disco duro externo 1 TB ,720,980
+324,Gamepad Xtreme color negro,165,235
